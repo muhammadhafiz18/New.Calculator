@@ -1,1 +1,1 @@
-﻿Console.Write("Hello Calculator!");
+﻿Console.WriteLine("!C# is the most powerful language ");
